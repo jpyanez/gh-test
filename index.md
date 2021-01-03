@@ -17,5 +17,5 @@ Connect to this address: {{ tubiiurl }}
 3. Using a new variable: {{ site.myvar3 }}
 
 4. Using a new variable: {{ site.myvar4 }}
-5. Using a new variable: {{ site.myvar1 }}
+5. Using a new variable 5 for reals: {{ site.myvar5 }}
 
