@@ -11,3 +11,4 @@ Test
 
 3. Connect to this address: {{ tubiiurl }}
 
+4. Using a new variable: {{ site.myvar1 }}
