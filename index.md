@@ -9,6 +9,13 @@ nav_order: 1
 
 Test
 
-3. Connect to this address: {{ tubiiurl }}
+Connect to this address: {{ tubiiurl }}
 
-4. Using a new variable: {{ site.myvar1 }}
+1. Using a new variable: {{ site.myvar1 }}
+2. Using a new variable: {{ site.myvar2 }}
+
+3. Using a new variable: {{ site.myvar3 }}
+
+4. Using a new variable: {{ site.myvar4 }}
+5. Using a new variable: {{ site.myvar1 }}
+
