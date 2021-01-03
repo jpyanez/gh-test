@@ -25,3 +25,6 @@ gh_edit_repository: "https://github.com/snoplus/operator-website" # the github U
 gh_edit_branch: "gh-pages" # the branch that your docs is served from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
 
+#### My SNO+ variables
+myvar1: "The site address"
+myvar2: "** Test this and that **"
