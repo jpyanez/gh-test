@@ -11,6 +11,4 @@ This is the second page
 
 Testing the include
 
-{% include variables.html %}
 
-{{testvar1}}
