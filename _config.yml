@@ -28,3 +28,6 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 #### My SNO+ variables
 myvar1: "The site address"
 myvar2: "** Test this and that **"
+myvar3: "`https://snoplus.github.io/operator-website/intro_operations/untethered.html`"
+myvar4: "`buffer1.sp.snolab.ca`"
+myvar5: "[the website](cam-crug.sp.snolab.ca)"
