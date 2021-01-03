@@ -10,6 +10,8 @@ This is the second page
 
 3. Connect to this address: {{ tubiiurl }}
 
+Testing the include
+
 {% include variables.html %}
 
 {{testvar1}}
